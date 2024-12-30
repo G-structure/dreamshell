@@ -1,1 +1,5 @@
 .env
+.key.pem
+.keystore.jks
+cert.pm
+./docker/result
